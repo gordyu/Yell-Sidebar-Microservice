@@ -1,9 +1,9 @@
 {
-  "name": "",
-  "version": "",
+  "name": "yell-footer",
+  "version": "0.0.1",
   "description": "",
-  "author": "",
-  "license": "",
+  "author": "Gordon Yu with Mike Vo and Di Zhao for Hack Reactor Remote 38",
+  "license": "All elements of this work is copywritten by the authors.  The unauthorized reproduction or distribution of a copyrighted work is illegal. Criminal copyright infringement is investigated by federal law enforcement agencies and is punishable by up to five years in prison and a fine of $250,000.",
   "engines": {
     "node": ">=6.13.0"
   },

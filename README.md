@@ -1,19 +1,16 @@
 # Project Name
 
-> Project description
+> Yell! Footer component.  Yell! is a clone of Yelp!'s Hack Reactor page.
 
 ## Related Projects
 
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
+  - https://www.yelp.com/biz/hack-reactor-san-francisco (as of 5/18/2019)
 
 ## Table of Contents
 
 1. [Usage](#Usage)
-1. [Requirements](#requirements)
-1. [Development](#development)
+2. [Requirements](#requirements)
+3. [Development](#development)
 
 ## Usage
 
